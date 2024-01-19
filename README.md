@@ -1,4 +1,4 @@
-Web Traffic Transformation
+# Web Traffic Transformation
 Overview
 
 This Python script, web_traffic_transformation.py, processes web traffic data from multiple CSV files at a specified root URL. It combines and transforms the data into a user-level format, saving the results in a new CSV file.
