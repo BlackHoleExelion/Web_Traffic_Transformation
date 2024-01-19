@@ -5,7 +5,8 @@ This Python script processes web traffic data from multiple CSV files at a speci
 Usage
 
     Modify the root_url variable in the script to point to the CSV directory.
-    Run the script: python web_traffic_transformation.py
+    Run the script: 
+        python web_traffic_transformation.py
 
 Requirements
 
